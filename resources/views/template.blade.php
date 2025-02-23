@@ -14,7 +14,7 @@
                 <a class="nav-link active" aria-current="page" href="/katalog">Beranda</a>
                 <a class="nav-link" href="/produk">Produk</a>
                 <a class="nav-link" href="/kategori">Kategori</a>
-                <a class="nav-link" href="/">User</a>
+                <a class="nav-link" href="/user">User</a>
                 <a class="nav-link" href="/">Logout</a>
             </nav>
         </div>
